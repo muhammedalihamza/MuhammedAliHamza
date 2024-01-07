@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Software for 4 year And Design for 7 year<br>I'm working on Game Development for 3 year<br>I'm working on Software Development for 4 year<br>I'm good at C#,JS,Html,Css,Adobe Ps,Xd,CA<br>I know C++,Java,Adobe AE,Illustrator
+I'm working on Software for 4 year And Design for 7 year<br>I'm working on Game Development for 3 year<br>I'm working on Software Development for 4 year
 
 
 ## 🌐 Socials:
