@@ -11,7 +11,7 @@ I'm working on Game Development And Game Design<br>I'm working on Unity to devel
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedalihamza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+![](https://github-readme-stats.vercel.app/api?username=MuhammedAliHamza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAliHamza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAliHamza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
